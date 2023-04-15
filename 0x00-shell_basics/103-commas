@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -xamp #we could also use amvp
